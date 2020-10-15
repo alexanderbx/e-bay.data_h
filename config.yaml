@@ -3,6 +3,7 @@ seeder:
   disabled: false  
 
 parsers:
-  - page_type: listings
+  - page_type: listings 
     file: ./parsers/listings.rb
     disabled: false
+    
