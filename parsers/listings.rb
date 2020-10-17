@@ -9,12 +9,12 @@ listings.each do |listing|
     product['url'] = item_link['href'] unless item_link.nil? 
     product['_collection'] = "listings"
     outputs << product
-   pages << {
-       uri: product['uri'],
-       page_type: 'details',
-       vars: {
-           title: product['title'],
-           price: product['price']
-       }
-   }
+    pages << {
+        url: product['url'],
+        page_type: 'details',
+        vars: {
+            title: product['title'],
+            price: product['price']
+        }
+    }
 end

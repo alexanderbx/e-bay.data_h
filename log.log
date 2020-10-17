@@ -1,0 +1,645 @@
+Trying parser script
+getting Job Page
+=========== Parsing Executed ===========
+----------------------------------------
+Trying to validate 42 out of 42 Pages
+[
+  {
+    "uri": null,
+    "page_type": "details",
+    "vars": {
+      "title": "Apple iPhone XR 64GB Factory Unlocked Smartphone 4G LTE iOS Smartphone",
+      "price": "$379.99"
+    }
+  },
+  {
+    "uri": null,
+    "page_type": "details",
+    "vars": {
+      "title": "Apple iPhone 8 64GB Fully Unlocked Verizon Sprint AT&T T-Mobile - CDMA GSM",
+      "price": "$249.00"
+    }
+  },
+  {
+    "uri": null,
+    "page_type": "details",
+    "vars": {
+      "title": "Apple iPhone X 64GB Factory Unlocked Smartphone",
+      "price": "$399.99"
+    }
+  },
+  {
+    "uri": null,
+    "page_type": "details",
+    "vars": {
+      "title": "Apple iPhone X 64GB 256GB A1901 Silver Gray AT&T T-Mobile GSM Unlocked Verizon",
+      "price": "$389.00 to $489.00"
+    }
+  },
+  {
+    "uri": null,
+    "page_type": "details",
+    "vars": {
+      "title": "Apple iPhone 7 Smartphone 32GB AT&T Sprint T-Mobile Verizon or Unlocked",
+      "price": "$129.00 to $179.00"
+    }
+  },
+  {
+    "uri": null,
+    "page_type": "details",
+    "vars": {
+      "title": "Apple iPhone 7 Smartphone AT&T Sprint T-Mobile Verizon or Unlocked 4G LTE",
+      "price": "$119.00 to $189.00"
+    }
+  },
+  {
+    "uri": null,
+    "page_type": "details",
+    "vars": {
+      "title": "Apple iPhone X Smartphone 64GB 256GB AT&T Sprint T-Mobile Verizon or Unlocked",
+      "price": "$359.00 to $449.00"
+    }
+  },
+  {
+    "uri": null,
+    "page_type": "details",
+    "vars": {
+      "title": "Apple iPhone 6 16GB- 64GB- 128GB, Fully Unlocked, Excellent Condition",
+      "price": "$90.00 to $189.00"
+    }
+  },
+  {
+    "uri": null,
+    "page_type": "details",
+    "vars": {
+      "title": "Apple iPhone 8 Plus 64GB Factory Unlocked Smartphone",
+      "price": "$319.99"
+    }
+  },
+  {
+    "uri": null,
+    "page_type": "details",
+    "vars": {
+      "title": "Apple iPhone 7 PLUS 128GB Verizon Unlocked at&t tmobile SmartPhone",
+      "price": "$199.00 to $349.00"
+    }
+  },
+  {
+    "uri": null,
+    "page_type": "details",
+    "vars": {
+      "title": "Apple iPhone XR Smartphone 64GB 128GB AT&T Sprint T-Mobile Verizon or Unlocked",
+      "price": "$329.00 to $439.00"
+    }
+  },
+  {
+    "uri": null,
+    "page_type": "details",
+    "vars": {
+      "title": "Apple iPhone 7 32GB/128GB - Gold,Black,Silver Verizon Unlocked Smartphone",
+      "price": "$109.00 to $188.00"
+    }
+  },
+  {
+    "uri": null,
+    "page_type": "details",
+    "vars": {
+      "title": "Apple iPhone 8 64GB Factory Unlocked Smartphone",
+      "price": "$239.99"
+    }
+  },
+  {
+    "uri": null,
+    "page_type": "details",
+    "vars": {
+      "title": "Apple iPhone XR 64GB 128GB 256GB - All Colors - Unlocked / Network Locked ",
+      "price": "$349.99 to $509.99"
+    }
+  },
+  {
+    "uri": null,
+    "page_type": "details",
+    "vars": {
+      "title": "Apple iPhone 7 32GB/128GB/256GB Mobile Smartphone Factory Unlocked 12MP iOS New",
+      "price": "$225.98 to $299.99"
+    }
+  },
+  {
+    "uri": null,
+    "page_type": "details",
+    "vars": {
+      "title": "Apple iPhone 7 32GB 128GB 256GB 🍎 Verizon T-Mobile AT&T GSM Unlocked 📱",
+      "price": "$124.99 to $224.99"
+    }
+  },
+  {
+    "uri": null,
+    "page_type": "details",
+    "vars": {
+      "title": "Apple iPhone XR Smartphone | 64GB 128GB | Unlocked Verizon AT&T Sprint T-Mobile",
+      "price": "$349.98 to $494.98"
+    }
+  },
+  {
+    "uri": null,
+    "page_type": "details",
+    "vars": {
+      "title": "Apple iPhone SE Smartphone 16GB 32GB 64GB 128GB Verizon Unlocked T-Mobile AT&T",
+      "price": "$94.00 to $124.00"
+    }
+  },
+  {
+    "uri": null,
+    "page_type": "details",
+    "vars": {
+      "title": "Apple iPhone 8 Factory Unlocked 4G LTE Smartphone - Used",
+      "price": "$229.99"
+    }
+  },
+  {
+    "uri": null,
+    "page_type": "details",
+    "vars": {
+      "title": "Apple iPhone SE Smartphone 16GB 32GB 64GB 128GB Factory Unlocked 4G LTE WiFi iOS",
+      "price": "$79.00 to $94.00"
+    }
+  },
+  {
+    "uri": null,
+    "page_type": "details",
+    "vars": {
+      "title": "Apple iPhone 7 - 128GB - Rose Gold (Unlocked) A1660 (GSM+CMDA)",
+      "price": "$149.99"
+    }
+  },
+  {
+    "uri": null,
+    "page_type": "details",
+    "vars": {
+      "title": "Apple iPhone 6s - 32GB - Space Gray",
+      "price": "$99.00"
+    }
+  },
+  {
+    "uri": null,
+    "page_type": "details",
+    "vars": {
+      "title": "Apple iPhone 8 64GB Factory Unlocked Smartphone",
+      "price": "$224.99 to $229.99"
+    }
+  },
+  {
+    "uri": null,
+    "page_type": "details",
+    "vars": {
+      "title": "Apple iPhone XR 64GB 🍎 Verizon T-Mobile AT&T Sprint Unlocked iOS Smartphone",
+      "price": "$408.99"
+    }
+  },
+  {
+    "uri": null,
+    "page_type": "details",
+    "vars": {
+      "title": "Apple iPhone 8 Smartphone AT&T Sprint T-Mobile Verizon or Unlocked 4G LTE iOS",
+      "price": "$200.00 to $279.00"
+    }
+  },
+  {
+    "uri": null,
+    "page_type": "details",
+    "vars": {
+      "title": "Apple iPhone X - 64GB, 256GB CDMA/GSM Unlocked, Verizon, AT&T, T-Mobile, Sprint",
+      "price": "$429.99 to $504.99"
+    }
+  },
+  {
+    "uri": null,
+    "page_type": "details",
+    "vars": {
+      "title": "Apple iPhone 5c - 8GB - White (Unlocked) A1532.  Excellent Condition",
+      "price": "$32.99"
+    }
+  },
+  {
+    "uri": null,
+    "page_type": "details",
+    "vars": {
+      "title": "Apple iPhone SE 16GB 32GB 64GB 128GB Verizon AT&T Unlocked Sprint T-Mobile GSM",
+      "price": "$74.99 to $129.99"
+    }
+  },
+  {
+    "uri": null,
+    "page_type": "details",
+    "vars": {
+      "title": "Open Box Apple iPhone X 256GB - Space Gray - GSM Unlocked",
+      "price": "$464.95"
+    }
+  },
+  {
+    "uri": null,
+    "page_type": "details",
+    "vars": {
+      "title": "Apple iPhone 6s 16GB 32GB 64GB 128GB - All Colors - Unlocked / Network Locked",
+      "price": "$89.99 to $289.99"
+    }
+  },
+  {
+    "uri": null,
+    "page_type": "details",
+    "vars": {
+      "title": "Apple iPhone XR 64GB Factory Unlocked iOS Smartphone - Used/Acceptable - Used",
+      "price": "$359.99"
+    }
+  },
+  {
+    "uri": null,
+    "page_type": "details",
+    "vars": {
+      "title": "Apple iPhone 7 Plus Smartphone AT&T Sprint T-Mobile Verizon or Unlocked 4G LTE",
+      "price": "$180.00 to $294.00"
+    }
+  },
+  {
+    "uri": null,
+    "page_type": "details",
+    "vars": {
+      "title": "Apple iPhone 6S 32GB Space Gray Unlocked Good Condition",
+      "price": "$106.99"
+    }
+  },
+  {
+    "uri": null,
+    "page_type": "details",
+    "vars": {
+      "title": "Apple iPhone 7 32GB - Gold,Black,Silver Verizon at&t Unlocked Smartphone LTE",
+      "price": "$121.00 to $191.00"
+    }
+  },
+  {
+    "uri": null,
+    "page_type": "details",
+    "vars": {
+      "title": "Apple iPhone SE 2nd Gen Smartphone AT&T Sprint T-Mobile Verizon or Unlocked",
+      "price": "$289.00 to $349.00"
+    }
+  },
+  {
+    "uri": null,
+    "page_type": "details",
+    "vars": {
+      "title": "Apple iPhone 6S 16GB Unlocked Smartphone",
+      "price": "$107.95"
+    }
+  },
+  {
+    "uri": null,
+    "page_type": "details",
+    "vars": {
+      "title": "Apple iPhone 8 - 256GB",
+      "price": "$250.00"
+    }
+  },
+  {
+    "uri": null,
+    "page_type": "details",
+    "vars": {
+      "title": "Apple iPhone 8 Plus 64GB Factory Unlocked Smartphone",
+      "price": "$319.99"
+    }
+  },
+  {
+    "uri": null,
+    "page_type": "details",
+    "vars": {
+      "title": "Apple iPhone 7 Plus 32GB Unlocked Smartphone",
+      "price": "$247.95"
+    }
+  },
+  {
+    "uri": null,
+    "page_type": "details",
+    "vars": {
+      "title": "Fully Unlocked Apple iPhone 8 Plus (GSM+CDMA) AT&T T-Mobile Verizon [NEW UNUSED]",
+      "price": "$459.00 to $465.00"
+    }
+  },
+  {
+    "uri": null,
+    "page_type": "details",
+    "vars": {
+      "title": "Apple iPhone 8 Plus Smartphone AT&T Sprint T-Mobile Verizon or Unlocked 4G LTE",
+      "price": "$265.00 to $389.00"
+    }
+  },
+  {
+    "uri": null,
+    "page_type": "details",
+    "vars": {
+      "title": "Apple IPhone 6s Plus 128GB ",
+      "price": "$100.00"
+    }
+  }
+]
+----------------------------------------
+Trying to validate 42 out of 42 Outputs
+[
+  {
+    "title": "Apple iPhone XR 64GB Factory Unlocked Smartphone 4G LTE iOS Smartphone",
+    "price": "$379.99",
+    "url": "https://www.ebay.com/p/13023706562?iid=254187678666&var=553554926970",
+    "_collection": "listings"
+  },
+  {
+    "title": "Apple iPhone 8 64GB Fully Unlocked Verizon Sprint AT&T T-Mobile - CDMA GSM",
+    "price": "$249.00",
+    "url": "https://www.ebay.com/p/5024041866?iid=224187626176&var=522962927362",
+    "_collection": "listings"
+  },
+  {
+    "title": "Apple iPhone X 64GB Factory Unlocked Smartphone",
+    "price": "$399.99",
+    "url": "https://www.ebay.com/p/238941171?iid=254187579586&var=553554795419",
+    "_collection": "listings"
+  },
+  {
+    "title": "Apple iPhone X 64GB 256GB A1901 Silver Gray AT&T T-Mobile GSM Unlocked Verizon",
+    "price": "$389.00 to $489.00",
+    "url": "https://www.ebay.com/p/239161003?iid=254735963576&var=554523916016",
+    "_collection": "listings"
+  },
+  {
+    "title": "Apple iPhone 7 Smartphone 32GB AT&T Sprint T-Mobile Verizon or Unlocked",
+    "price": "$129.00 to $179.00",
+    "url": "https://www.ebay.com/p/15032447368?iid=154068021610&var=454196675362",
+    "_collection": "listings"
+  },
+  {
+    "title": "Apple iPhone 7 Smartphone AT&T Sprint T-Mobile Verizon or Unlocked 4G LTE",
+    "price": "$119.00 to $189.00",
+    "url": "https://www.ebay.com/p/225208146?iid=302383678235&var=601217321068",
+    "_collection": "listings"
+  },
+  {
+    "title": "Apple iPhone X Smartphone 64GB 256GB AT&T Sprint T-Mobile Verizon or Unlocked",
+    "price": "$359.00 to $449.00",
+    "url": "https://www.ebay.com/p/16037217107?iid=303279232871&var=602277419471",
+    "_collection": "listings"
+  },
+  {
+    "title": "Apple iPhone 6 16GB- 64GB- 128GB, Fully Unlocked, Excellent Condition",
+    "price": "$90.00 to $189.00",
+    "url": "https://www.ebay.com/p/203757022?iid=113709162590&var=413839620204",
+    "_collection": "listings"
+  },
+  {
+    "title": "Apple iPhone 8 Plus 64GB Factory Unlocked Smartphone",
+    "price": "$319.99",
+    "url": "https://www.ebay.com/p/240464787?iid=154097265968&var=454233423078",
+    "_collection": "listings"
+  },
+  {
+    "title": "Apple iPhone 7 PLUS 128GB Verizon Unlocked at&t tmobile SmartPhone",
+    "price": "$199.00 to $349.00",
+    "url": "https://www.ebay.com/itm/Apple-iPhone-7-PLUS-128GB-Verizon-Unlocked-at-t-tmobile-SmartPhone/112773299279?hash=item1a41cffc4f:g:x64AAOSwC2ld1Dgq&var=414386798128",
+    "_collection": "listings"
+  },
+  {
+    "title": "Apple iPhone XR Smartphone 64GB 128GB AT&T Sprint T-Mobile Verizon or Unlocked",
+    "price": "$329.00 to $439.00",
+    "url": "https://www.ebay.com/p/6023707225?iid=293051720597&var=591873371740",
+    "_collection": "listings"
+  },
+  {
+    "title": "Apple iPhone 7 32GB/128GB - Gold,Black,Silver Verizon Unlocked Smartphone",
+    "price": "$109.00 to $188.00",
+    "url": "https://www.ebay.com/p/232669172?iid=114120890652&var=414386809235",
+    "_collection": "listings"
+  },
+  {
+    "title": "Apple iPhone 8 64GB Factory Unlocked Smartphone",
+    "price": "$239.99",
+    "url": "https://www.ebay.com/p/239054200?iid=253462854618&var=552639345811",
+    "_collection": "listings"
+  },
+  {
+    "title": "Apple iPhone XR 64GB 128GB 256GB - All Colors - Unlocked / Network Locked ",
+    "price": "$349.99 to $509.99",
+    "url": "https://www.ebay.com/itm/Apple-iPhone-XR-64GB-128GB-256GB-All-Colors-Unlocked-Network-Locked/123791374465?hash=item1cd28a7881:g:644AAOSwDLhc9Vtj&var=424997892091",
+    "_collection": "listings"
+  },
+  {
+    "title": "Apple iPhone 7 32GB/128GB/256GB Mobile Smartphone Factory Unlocked 12MP iOS New",
+    "price": "$225.98 to $299.99",
+    "url": "https://www.ebay.com/p/2104207414?iid=254535400214&var=554234182881",
+    "_collection": "listings"
+  },
+  {
+    "title": "Apple iPhone 7 32GB 128GB 256GB 🍎 Verizon T-Mobile AT&T GSM Unlocked 📱",
+    "price": "$124.99 to $224.99",
+    "url": "https://www.ebay.com/p/15039184007?iid=233717627898&var=533410927102",
+    "_collection": "listings"
+  },
+  {
+    "title": "Apple iPhone XR Smartphone | 64GB 128GB | Unlocked Verizon AT&T Sprint T-Mobile",
+    "price": "$349.98 to $494.98",
+    "url": "https://www.ebay.com/p/26023710571?iid=174110785206&var=472982053646",
+    "_collection": "listings"
+  },
+  {
+    "title": "Apple iPhone SE Smartphone 16GB 32GB 64GB 128GB Verizon Unlocked T-Mobile AT&T",
+    "price": "$94.00 to $124.00",
+    "url": "https://www.ebay.com/p/220278114?iid=292951472144&var=591737724110",
+    "_collection": "listings"
+  },
+  {
+    "title": "Apple iPhone 8 Factory Unlocked 4G LTE Smartphone - Used",
+    "price": "$229.99",
+    "url": "https://www.ebay.com/p/239099257?iid=254038842493&var=553382870277",
+    "_collection": "listings"
+  },
+  {
+    "title": "Apple iPhone SE Smartphone 16GB 32GB 64GB 128GB Factory Unlocked 4G LTE WiFi iOS",
+    "price": "$79.00 to $94.00",
+    "url": "https://www.ebay.com/p/240530963?iid=302707136754&var=601567810090",
+    "_collection": "listings"
+  },
+  {
+    "title": "Apple iPhone 7 - 128GB - Rose Gold (Unlocked) A1660 (GSM+CMDA)",
+    "price": "$149.99",
+    "url": "https://www.ebay.com/itm/Apple-iPhone-7-128GB-Rose-Gold-Unlocked-A1660-GSM-CMDA/324331685954?hash=item4b83acc842:g:gk4AAOSw2NVfhO6d",
+    "_collection": "listings"
+  },
+  {
+    "title": "Apple iPhone 6s - 32GB - Space Gray",
+    "price": "$99.00",
+    "url": "https://www.ebay.com/p/228568405?iid=133545129497",
+    "_collection": "listings"
+  },
+  {
+    "title": "Apple iPhone 8 64GB Factory Unlocked Smartphone",
+    "price": "$224.99 to $229.99",
+    "url": "https://www.ebay.com/p/240377032?iid=154088777526&var=454222482031",
+    "_collection": "listings"
+  },
+  {
+    "title": "Apple iPhone XR 64GB 🍎 Verizon T-Mobile AT&T Sprint Unlocked iOS Smartphone",
+    "price": "$408.99",
+    "url": "https://www.ebay.com/p/6038880603?iid=352754616813&var=622068832331",
+    "_collection": "listings"
+  },
+  {
+    "title": "Apple iPhone 8 Smartphone AT&T Sprint T-Mobile Verizon or Unlocked 4G LTE iOS",
+    "price": "$200.00 to $279.00",
+    "url": "https://www.ebay.com/p/239164928?iid=292691384025&var=591488170917",
+    "_collection": "listings"
+  },
+  {
+    "title": "Apple iPhone X - 64GB, 256GB CDMA/GSM Unlocked, Verizon, AT&T, T-Mobile, Sprint",
+    "price": "$429.99 to $504.99",
+    "url": "https://www.ebay.com/p/238944741?iid=192933356974&var=493626896250",
+    "_collection": "listings"
+  },
+  {
+    "title": "Apple iPhone 5c - 8GB - White (Unlocked) A1532.  Excellent Condition",
+    "price": "$32.99",
+    "url": "https://www.ebay.com/p/241082214?iid=303720495205",
+    "_collection": "listings"
+  },
+  {
+    "title": "Apple iPhone SE 16GB 32GB 64GB 128GB Verizon AT&T Unlocked Sprint T-Mobile GSM",
+    "price": "$74.99 to $129.99",
+    "url": "https://www.ebay.com/itm/Apple-iPhone-SE-16GB-32GB-64GB-128GB-Verizon-AT-T-Unlocked-Sprint-T-Mobile-GSM/174342453542?hash=item28979eb926:g:hhoAAOSwP2pfBffx&var=473540099535",
+    "_collection": "listings"
+  },
+  {
+    "title": "Open Box Apple iPhone X 256GB - Space Gray - GSM Unlocked",
+    "price": "$464.95",
+    "url": "https://www.ebay.com/p/239160993?iid=123976853908",
+    "_collection": "listings"
+  },
+  {
+    "title": "Apple iPhone 6s 16GB 32GB 64GB 128GB - All Colors - Unlocked / Network Locked",
+    "price": "$89.99 to $289.99",
+    "url": "https://www.ebay.com/p/22027070979?iid=124293430773&var=425181354176",
+    "_collection": "listings"
+  },
+  {
+    "title": "Apple iPhone XR 64GB Factory Unlocked iOS Smartphone - Used/Acceptable - Used",
+    "price": "$359.99",
+    "url": "https://www.ebay.com/p/6023707176?iid=254467604626&var=554122280703",
+    "_collection": "listings"
+  },
+  {
+    "title": "Apple iPhone 7 Plus Smartphone AT&T Sprint T-Mobile Verizon or Unlocked 4G LTE",
+    "price": "$180.00 to $294.00",
+    "url": "https://www.ebay.com/p/240445956?iid=292183348233&var=591444308427",
+    "_collection": "listings"
+  },
+  {
+    "title": "Apple iPhone 6S 32GB Space Gray Unlocked Good Condition",
+    "price": "$106.99",
+    "url": "https://www.ebay.com/p/228580046?iid=293464920500",
+    "_collection": "listings"
+  },
+  {
+    "title": "Apple iPhone 7 32GB - Gold,Black,Silver Verizon at&t Unlocked Smartphone LTE",
+    "price": "$121.00 to $191.00",
+    "url": "https://www.ebay.com/p/225217217?iid=114120899548&var=414386822870",
+    "_collection": "listings"
+  },
+  {
+    "title": "Apple iPhone SE 2nd Gen Smartphone AT&T Sprint T-Mobile Verizon or Unlocked",
+    "price": "$289.00 to $349.00",
+    "url": "https://www.ebay.com/p/13037855784?iid=293638694984&var=592455357072",
+    "_collection": "listings"
+  },
+  {
+    "title": "Apple iPhone 6S 16GB Unlocked Smartphone",
+    "price": "$107.95",
+    "url": "https://www.ebay.com/p/240420050?iid=381884981763&var=650870884962",
+    "_collection": "listings"
+  },
+  {
+    "title": "Apple iPhone 8 - 256GB",
+    "price": "$250.00",
+    "url": "https://www.ebay.com/p/240531148?iid=143782643274",
+    "_collection": "listings"
+  },
+  {
+    "title": "Apple iPhone 8 Plus 64GB Factory Unlocked Smartphone",
+    "price": "$319.99",
+    "url": "https://www.ebay.com/p/8041570127?iid=253478667538&var=552661335205",
+    "_collection": "listings"
+  },
+  {
+    "title": "Apple iPhone 7 Plus 32GB Unlocked Smartphone",
+    "price": "$247.95",
+    "url": "https://www.ebay.com/p/240376992?iid=401421944762&var=671054158787",
+    "_collection": "listings"
+  },
+  {
+    "title": "Fully Unlocked Apple iPhone 8 Plus (GSM+CDMA) AT&T T-Mobile Verizon [NEW UNUSED]",
+    "price": "$459.00 to $465.00",
+    "url": "https://www.ebay.com/p/239080676?iid=184433032359&var=692135001031",
+    "_collection": "listings"
+  },
+  {
+    "title": "Apple iPhone 8 Plus Smartphone AT&T Sprint T-Mobile Verizon or Unlocked 4G LTE",
+    "price": "$265.00 to $389.00",
+    "url": "https://www.ebay.com/p/3036813132?iid=302847614914&var=601751911948",
+    "_collection": "listings"
+  },
+  {
+    "title": "Apple IPhone 6s Plus 128GB ",
+    "price": "$100.00",
+    "url": "https://www.ebay.com/p/219505367?iid=233744097642",
+    "_collection": "listings"
+  }
+]
+Error: Invalid Pages and/or Outputs: {
+ "errors_logged": [
+  "Error: GID needs to be generated;URL is required For: {\"job_id\":1,\"status\":\"to_fetch\",\"fetch_type\":\"standard\",\"hostname\":\"\",\"page_type\":\"details\",\"priority\":null,\"method\":\"GET\",\"url\":\"\",\"effective_url\":null,\"headers\":null,\"cookie\":null,\"body\":null,\"created_at\":\"0001-01-01T00:00:00Z\",\"no_redirect\":false,\"no_url_encode\":false,\"http2\":false,\"ua_type\":\"desktop\",\"freshness\":\"2020-10-12T00:07:00Z\",\"fresh\":null,\"parsing_at\":null,\"parsing_failed_at\":null,\"parsed_at\":null,\"parsing_try_count\":0,\"parsing_fail_count\":0,\"fetching_at\":\"0001-01-01T00:00:00Z\",\"fetched_at\":null,\"fetching_try_count\":0,\"to_fetch\":null,\"fetched_from\":\"\",\"response_checksum\":null,\"response_status\":null,\"response_status_code\":null,\"response_headers\":null,\"response_cookie\":null,\"response_proto\":null,\"content_type\":null,\"content_size\":0,\"vars\":{\"price\":\"$379.99\",\"title\":\"Apple iPhone XR 64GB Factory Unlocked Smartphone 4G LTE iOS Smartphone\"},\"failed_response_checksum\":null,\"failed_response_status\":null,\"failed_response_status_code\":null,\"failed_response_headers\":null,\"failed_response_cookie\":null,\"failed_response_proto\":null,\"failed_effective_url\":null,\"failed_at\":null,\"failed_content_type\":null,\"driver\":null,\"display\":null,\"screenshot\":null,\"driver_log\":null,\"force_fetch\":null}",
+  "Error: GID needs to be generated;URL is required For: {\"job_id\":1,\"status\":\"to_fetch\",\"fetch_type\":\"standard\",\"hostname\":\"\",\"page_type\":\"details\",\"priority\":null,\"method\":\"GET\",\"url\":\"\",\"effective_url\":null,\"headers\":null,\"cookie\":null,\"body\":null,\"created_at\":\"0001-01-01T00:00:00Z\",\"no_redirect\":false,\"no_url_encode\":false,\"http2\":false,\"ua_type\":\"desktop\",\"freshness\":\"2020-10-12T00:07:00Z\",\"fresh\":null,\"parsing_at\":null,\"parsing_failed_at\":null,\"parsed_at\":null,\"parsing_try_count\":0,\"parsing_fail_count\":0,\"fetching_at\":\"0001-01-01T00:00:00Z\",\"fetched_at\":null,\"fetching_try_count\":0,\"to_fetch\":null,\"fetched_from\":\"\",\"response_checksum\":null,\"response_status\":null,\"response_status_code\":null,\"response_headers\":null,\"response_cookie\":null,\"response_proto\":null,\"content_type\":null,\"content_size\":0,\"vars\":{\"price\":\"$249.00\",\"title\":\"Apple iPhone 8 64GB Fully Unlocked Verizon Sprint AT&T T-Mobile - CDMA GSM\"},\"failed_response_checksum\":null,\"failed_response_status\":null,\"failed_response_status_code\":null,\"failed_response_headers\":null,\"failed_response_cookie\":null,\"failed_response_proto\":null,\"failed_effective_url\":null,\"failed_at\":null,\"failed_content_type\":null,\"driver\":null,\"display\":null,\"screenshot\":null,\"driver_log\":null,\"force_fetch\":null}",
+  "Error: GID needs to be generated;URL is required For: {\"job_id\":1,\"status\":\"to_fetch\",\"fetch_type\":\"standard\",\"hostname\":\"\",\"page_type\":\"details\",\"priority\":null,\"method\":\"GET\",\"url\":\"\",\"effective_url\":null,\"headers\":null,\"cookie\":null,\"body\":null,\"created_at\":\"0001-01-01T00:00:00Z\",\"no_redirect\":false,\"no_url_encode\":false,\"http2\":false,\"ua_type\":\"desktop\",\"freshness\":\"2020-10-12T00:07:00Z\",\"fresh\":null,\"parsing_at\":null,\"parsing_failed_at\":null,\"parsed_at\":null,\"parsing_try_count\":0,\"parsing_fail_count\":0,\"fetching_at\":\"0001-01-01T00:00:00Z\",\"fetched_at\":null,\"fetching_try_count\":0,\"to_fetch\":null,\"fetched_from\":\"\",\"response_checksum\":null,\"response_status\":null,\"response_status_code\":null,\"response_headers\":null,\"response_cookie\":null,\"response_proto\":null,\"content_type\":null,\"content_size\":0,\"vars\":{\"price\":\"$399.99\",\"title\":\"Apple iPhone X 64GB Factory Unlocked Smartphone\"},\"failed_response_checksum\":null,\"failed_response_status\":null,\"failed_response_status_code\":null,\"failed_response_headers\":null,\"failed_response_cookie\":null,\"failed_response_proto\":null,\"failed_effective_url\":null,\"failed_at\":null,\"failed_content_type\":null,\"driver\":null,\"display\":null,\"screenshot\":null,\"driver_log\":null,\"force_fetch\":null}",
+  "Error: GID needs to be generated;URL is required For: {\"job_id\":1,\"status\":\"to_fetch\",\"fetch_type\":\"standard\",\"hostname\":\"\",\"page_type\":\"details\",\"priority\":null,\"method\":\"GET\",\"url\":\"\",\"effective_url\":null,\"headers\":null,\"cookie\":null,\"body\":null,\"created_at\":\"0001-01-01T00:00:00Z\",\"no_redirect\":false,\"no_url_encode\":false,\"http2\":false,\"ua_type\":\"desktop\",\"freshness\":\"2020-10-12T00:07:00Z\",\"fresh\":null,\"parsing_at\":null,\"parsing_failed_at\":null,\"parsed_at\":null,\"parsing_try_count\":0,\"parsing_fail_count\":0,\"fetching_at\":\"0001-01-01T00:00:00Z\",\"fetched_at\":null,\"fetching_try_count\":0,\"to_fetch\":null,\"fetched_from\":\"\",\"response_checksum\":null,\"response_status\":null,\"response_status_code\":null,\"response_headers\":null,\"response_cookie\":null,\"response_proto\":null,\"content_type\":null,\"content_size\":0,\"vars\":{\"price\":\"$389.00 to $489.00\",\"title\":\"Apple iPhone X 64GB 256GB A1901 Silver Gray AT&T T-Mobile GSM Unlocked Verizon\"},\"failed_response_checksum\":null,\"failed_response_status\":null,\"failed_response_status_code\":null,\"failed_response_headers\":null,\"failed_response_cookie\":null,\"failed_response_proto\":null,\"failed_effective_url\":null,\"failed_at\":null,\"failed_content_type\":null,\"driver\":null,\"display\":null,\"screenshot\":null,\"driver_log\":null,\"force_fetch\":null}",
+  "Error: GID needs to be generated;URL is required For: {\"job_id\":1,\"status\":\"to_fetch\",\"fetch_type\":\"standard\",\"hostname\":\"\",\"page_type\":\"details\",\"priority\":null,\"method\":\"GET\",\"url\":\"\",\"effective_url\":null,\"headers\":null,\"cookie\":null,\"body\":null,\"created_at\":\"0001-01-01T00:00:00Z\",\"no_redirect\":false,\"no_url_encode\":false,\"http2\":false,\"ua_type\":\"desktop\",\"freshness\":\"2020-10-12T00:07:00Z\",\"fresh\":null,\"parsing_at\":null,\"parsing_failed_at\":null,\"parsed_at\":null,\"parsing_try_count\":0,\"parsing_fail_count\":0,\"fetching_at\":\"0001-01-01T00:00:00Z\",\"fetched_at\":null,\"fetching_try_count\":0,\"to_fetch\":null,\"fetched_from\":\"\",\"response_checksum\":null,\"response_status\":null,\"response_status_code\":null,\"response_headers\":null,\"response_cookie\":null,\"response_proto\":null,\"content_type\":null,\"content_size\":0,\"vars\":{\"price\":\"$129.00 to $179.00\",\"title\":\"Apple iPhone 7 Smartphone 32GB AT&T Sprint T-Mobile Verizon or Unlocked\"},\"failed_response_checksum\":null,\"failed_response_status\":null,\"failed_response_status_code\":null,\"failed_response_headers\":null,\"failed_response_cookie\":null,\"failed_response_proto\":null,\"failed_effective_url\":null,\"failed_at\":null,\"failed_content_type\":null,\"driver\":null,\"display\":null,\"screenshot\":null,\"driver_log\":null,\"force_fetch\":null}",
+  "Error: GID needs to be generated;URL is required For: {\"job_id\":1,\"status\":\"to_fetch\",\"fetch_type\":\"standard\",\"hostname\":\"\",\"page_type\":\"details\",\"priority\":null,\"method\":\"GET\",\"url\":\"\",\"effective_url\":null,\"headers\":null,\"cookie\":null,\"body\":null,\"created_at\":\"0001-01-01T00:00:00Z\",\"no_redirect\":false,\"no_url_encode\":false,\"http2\":false,\"ua_type\":\"desktop\",\"freshness\":\"2020-10-12T00:07:00Z\",\"fresh\":null,\"parsing_at\":null,\"parsing_failed_at\":null,\"parsed_at\":null,\"parsing_try_count\":0,\"parsing_fail_count\":0,\"fetching_at\":\"0001-01-01T00:00:00Z\",\"fetched_at\":null,\"fetching_try_count\":0,\"to_fetch\":null,\"fetched_from\":\"\",\"response_checksum\":null,\"response_status\":null,\"response_status_code\":null,\"response_headers\":null,\"response_cookie\":null,\"response_proto\":null,\"content_type\":null,\"content_size\":0,\"vars\":{\"price\":\"$119.00 to $189.00\",\"title\":\"Apple iPhone 7 Smartphone AT&T Sprint T-Mobile Verizon or Unlocked 4G LTE\"},\"failed_response_checksum\":null,\"failed_response_status\":null,\"failed_response_status_code\":null,\"failed_response_headers\":null,\"failed_response_cookie\":null,\"failed_response_proto\":null,\"failed_effective_url\":null,\"failed_at\":null,\"failed_content_type\":null,\"driver\":null,\"display\":null,\"screenshot\":null,\"driver_log\":null,\"force_fetch\":null}",
+  "Error: GID needs to be generated;URL is required For: {\"job_id\":1,\"status\":\"to_fetch\",\"fetch_type\":\"standard\",\"hostname\":\"\",\"page_type\":\"details\",\"priority\":null,\"method\":\"GET\",\"url\":\"\",\"effective_url\":null,\"headers\":null,\"cookie\":null,\"body\":null,\"created_at\":\"0001-01-01T00:00:00Z\",\"no_redirect\":false,\"no_url_encode\":false,\"http2\":false,\"ua_type\":\"desktop\",\"freshness\":\"2020-10-12T00:07:00Z\",\"fresh\":null,\"parsing_at\":null,\"parsing_failed_at\":null,\"parsed_at\":null,\"parsing_try_count\":0,\"parsing_fail_count\":0,\"fetching_at\":\"0001-01-01T00:00:00Z\",\"fetched_at\":null,\"fetching_try_count\":0,\"to_fetch\":null,\"fetched_from\":\"\",\"response_checksum\":null,\"response_status\":null,\"response_status_code\":null,\"response_headers\":null,\"response_cookie\":null,\"response_proto\":null,\"content_type\":null,\"content_size\":0,\"vars\":{\"price\":\"$359.00 to $449.00\",\"title\":\"Apple iPhone X Smartphone 64GB 256GB AT&T Sprint T-Mobile Verizon or Unlocked\"},\"failed_response_checksum\":null,\"failed_response_status\":null,\"failed_response_status_code\":null,\"failed_response_headers\":null,\"failed_response_cookie\":null,\"failed_response_proto\":null,\"failed_effective_url\":null,\"failed_at\":null,\"failed_content_type\":null,\"driver\":null,\"display\":null,\"screenshot\":null,\"driver_log\":null,\"force_fetch\":null}",
+  "Error: GID needs to be generated;URL is required For: {\"job_id\":1,\"status\":\"to_fetch\",\"fetch_type\":\"standard\",\"hostname\":\"\",\"page_type\":\"details\",\"priority\":null,\"method\":\"GET\",\"url\":\"\",\"effective_url\":null,\"headers\":null,\"cookie\":null,\"body\":null,\"created_at\":\"0001-01-01T00:00:00Z\",\"no_redirect\":false,\"no_url_encode\":false,\"http2\":false,\"ua_type\":\"desktop\",\"freshness\":\"2020-10-12T00:07:00Z\",\"fresh\":null,\"parsing_at\":null,\"parsing_failed_at\":null,\"parsed_at\":null,\"parsing_try_count\":0,\"parsing_fail_count\":0,\"fetching_at\":\"0001-01-01T00:00:00Z\",\"fetched_at\":null,\"fetching_try_count\":0,\"to_fetch\":null,\"fetched_from\":\"\",\"response_checksum\":null,\"response_status\":null,\"response_status_code\":null,\"response_headers\":null,\"response_cookie\":null,\"response_proto\":null,\"content_type\":null,\"content_size\":0,\"vars\":{\"price\":\"$90.00 to $189.00\",\"title\":\"Apple iPhone 6 16GB- 64GB- 128GB, Fully Unlocked, Excellent Condition\"},\"failed_response_checksum\":null,\"failed_response_status\":null,\"failed_response_status_code\":null,\"failed_response_headers\":null,\"failed_response_cookie\":null,\"failed_response_proto\":null,\"failed_effective_url\":null,\"failed_at\":null,\"failed_content_type\":null,\"driver\":null,\"display\":null,\"screenshot\":null,\"driver_log\":null,\"force_fetch\":null}",
+  "Error: GID needs to be generated;URL is required For: {\"job_id\":1,\"status\":\"to_fetch\",\"fetch_type\":\"standard\",\"hostname\":\"\",\"page_type\":\"details\",\"priority\":null,\"method\":\"GET\",\"url\":\"\",\"effective_url\":null,\"headers\":null,\"cookie\":null,\"body\":null,\"created_at\":\"0001-01-01T00:00:00Z\",\"no_redirect\":false,\"no_url_encode\":false,\"http2\":false,\"ua_type\":\"desktop\",\"freshness\":\"2020-10-12T00:07:00Z\",\"fresh\":null,\"parsing_at\":null,\"parsing_failed_at\":null,\"parsed_at\":null,\"parsing_try_count\":0,\"parsing_fail_count\":0,\"fetching_at\":\"0001-01-01T00:00:00Z\",\"fetched_at\":null,\"fetching_try_count\":0,\"to_fetch\":null,\"fetched_from\":\"\",\"response_checksum\":null,\"response_status\":null,\"response_status_code\":null,\"response_headers\":null,\"response_cookie\":null,\"response_proto\":null,\"content_type\":null,\"content_size\":0,\"vars\":{\"price\":\"$319.99\",\"title\":\"Apple iPhone 8 Plus 64GB Factory Unlocked Smartphone\"},\"failed_response_checksum\":null,\"failed_response_status\":null,\"failed_response_status_code\":null,\"failed_response_headers\":null,\"failed_response_cookie\":null,\"failed_response_proto\":null,\"failed_effective_url\":null,\"failed_at\":null,\"failed_content_type\":null,\"driver\":null,\"display\":null,\"screenshot\":null,\"driver_log\":null,\"force_fetch\":null}",
+  "Error: GID needs to be generated;URL is required For: {\"job_id\":1,\"status\":\"to_fetch\",\"fetch_type\":\"standard\",\"hostname\":\"\",\"page_type\":\"details\",\"priority\":null,\"method\":\"GET\",\"url\":\"\",\"effective_url\":null,\"headers\":null,\"cookie\":null,\"body\":null,\"created_at\":\"0001-01-01T00:00:00Z\",\"no_redirect\":false,\"no_url_encode\":false,\"http2\":false,\"ua_type\":\"desktop\",\"freshness\":\"2020-10-12T00:07:00Z\",\"fresh\":null,\"parsing_at\":null,\"parsing_failed_at\":null,\"parsed_at\":null,\"parsing_try_count\":0,\"parsing_fail_count\":0,\"fetching_at\":\"0001-01-01T00:00:00Z\",\"fetched_at\":null,\"fetching_try_count\":0,\"to_fetch\":null,\"fetched_from\":\"\",\"response_checksum\":null,\"response_status\":null,\"response_status_code\":null,\"response_headers\":null,\"response_cookie\":null,\"response_proto\":null,\"content_type\":null,\"content_size\":0,\"vars\":{\"price\":\"$199.00 to $349.00\",\"title\":\"Apple iPhone 7 PLUS 128GB Verizon Unlocked at&t tmobile SmartPhone\"},\"failed_response_checksum\":null,\"failed_response_status\":null,\"failed_response_status_code\":null,\"failed_response_headers\":null,\"failed_response_cookie\":null,\"failed_response_proto\":null,\"failed_effective_url\":null,\"failed_at\":null,\"failed_content_type\":null,\"driver\":null,\"display\":null,\"screenshot\":null,\"driver_log\":null,\"force_fetch\":null}",
+  "Error: GID needs to be generated;URL is required For: {\"job_id\":1,\"status\":\"to_fetch\",\"fetch_type\":\"standard\",\"hostname\":\"\",\"page_type\":\"details\",\"priority\":null,\"method\":\"GET\",\"url\":\"\",\"effective_url\":null,\"headers\":null,\"cookie\":null,\"body\":null,\"created_at\":\"0001-01-01T00:00:00Z\",\"no_redirect\":false,\"no_url_encode\":false,\"http2\":false,\"ua_type\":\"desktop\",\"freshness\":\"2020-10-12T00:07:00Z\",\"fresh\":null,\"parsing_at\":null,\"parsing_failed_at\":null,\"parsed_at\":null,\"parsing_try_count\":0,\"parsing_fail_count\":0,\"fetching_at\":\"0001-01-01T00:00:00Z\",\"fetched_at\":null,\"fetching_try_count\":0,\"to_fetch\":null,\"fetched_from\":\"\",\"response_checksum\":null,\"response_status\":null,\"response_status_code\":null,\"response_headers\":null,\"response_cookie\":null,\"response_proto\":null,\"content_type\":null,\"content_size\":0,\"vars\":{\"price\":\"$329.00 to $439.00\",\"title\":\"Apple iPhone XR Smartphone 64GB 128GB AT&T Sprint T-Mobile Verizon or Unlocked\"},\"failed_response_checksum\":null,\"failed_response_status\":null,\"failed_response_status_code\":null,\"failed_response_headers\":null,\"failed_response_cookie\":null,\"failed_response_proto\":null,\"failed_effective_url\":null,\"failed_at\":null,\"failed_content_type\":null,\"driver\":null,\"display\":null,\"screenshot\":null,\"driver_log\":null,\"force_fetch\":null}",
+  "Error: GID needs to be generated;URL is required For: {\"job_id\":1,\"status\":\"to_fetch\",\"fetch_type\":\"standard\",\"hostname\":\"\",\"page_type\":\"details\",\"priority\":null,\"method\":\"GET\",\"url\":\"\",\"effective_url\":null,\"headers\":null,\"cookie\":null,\"body\":null,\"created_at\":\"0001-01-01T00:00:00Z\",\"no_redirect\":false,\"no_url_encode\":false,\"http2\":false,\"ua_type\":\"desktop\",\"freshness\":\"2020-10-12T00:07:00Z\",\"fresh\":null,\"parsing_at\":null,\"parsing_failed_at\":null,\"parsed_at\":null,\"parsing_try_count\":0,\"parsing_fail_count\":0,\"fetching_at\":\"0001-01-01T00:00:00Z\",\"fetched_at\":null,\"fetching_try_count\":0,\"to_fetch\":null,\"fetched_from\":\"\",\"response_checksum\":null,\"response_status\":null,\"response_status_code\":null,\"response_headers\":null,\"response_cookie\":null,\"response_proto\":null,\"content_type\":null,\"content_size\":0,\"vars\":{\"price\":\"$109.00 to $188.00\",\"title\":\"Apple iPhone 7 32GB/128GB - Gold,Black,Silver Verizon Unlocked Smartphone\"},\"failed_response_checksum\":null,\"failed_response_status\":null,\"failed_response_status_code\":null,\"failed_response_headers\":null,\"failed_response_cookie\":null,\"failed_response_proto\":null,\"failed_effective_url\":null,\"failed_at\":null,\"failed_content_type\":null,\"driver\":null,\"display\":null,\"screenshot\":null,\"driver_log\":null,\"force_fetch\":null}",
+  "Error: GID needs to be generated;URL is required For: {\"job_id\":1,\"status\":\"to_fetch\",\"fetch_type\":\"standard\",\"hostname\":\"\",\"page_type\":\"details\",\"priority\":null,\"method\":\"GET\",\"url\":\"\",\"effective_url\":null,\"headers\":null,\"cookie\":null,\"body\":null,\"created_at\":\"0001-01-01T00:00:00Z\",\"no_redirect\":false,\"no_url_encode\":false,\"http2\":false,\"ua_type\":\"desktop\",\"freshness\":\"2020-10-12T00:07:00Z\",\"fresh\":null,\"parsing_at\":null,\"parsing_failed_at\":null,\"parsed_at\":null,\"parsing_try_count\":0,\"parsing_fail_count\":0,\"fetching_at\":\"0001-01-01T00:00:00Z\",\"fetched_at\":null,\"fetching_try_count\":0,\"to_fetch\":null,\"fetched_from\":\"\",\"response_checksum\":null,\"response_status\":null,\"response_status_code\":null,\"response_headers\":null,\"response_cookie\":null,\"response_proto\":null,\"content_type\":null,\"content_size\":0,\"vars\":{\"price\":\"$239.99\",\"title\":\"Apple iPhone 8 64GB Factory Unlocked Smartphone\"},\"failed_response_checksum\":null,\"failed_response_status\":null,\"failed_response_status_code\":null,\"failed_response_headers\":null,\"failed_response_cookie\":null,\"failed_response_proto\":null,\"failed_effective_url\":null,\"failed_at\":null,\"failed_content_type\":null,\"driver\":null,\"display\":null,\"screenshot\":null,\"driver_log\":null,\"force_fetch\":null}",
+  "Error: GID needs to be generated;URL is required For: {\"job_id\":1,\"status\":\"to_fetch\",\"fetch_type\":\"standard\",\"hostname\":\"\",\"page_type\":\"details\",\"priority\":null,\"method\":\"GET\",\"url\":\"\",\"effective_url\":null,\"headers\":null,\"cookie\":null,\"body\":null,\"created_at\":\"0001-01-01T00:00:00Z\",\"no_redirect\":false,\"no_url_encode\":false,\"http2\":false,\"ua_type\":\"desktop\",\"freshness\":\"2020-10-12T00:07:00Z\",\"fresh\":null,\"parsing_at\":null,\"parsing_failed_at\":null,\"parsed_at\":null,\"parsing_try_count\":0,\"parsing_fail_count\":0,\"fetching_at\":\"0001-01-01T00:00:00Z\",\"fetched_at\":null,\"fetching_try_count\":0,\"to_fetch\":null,\"fetched_from\":\"\",\"response_checksum\":null,\"response_status\":null,\"response_status_code\":null,\"response_headers\":null,\"response_cookie\":null,\"response_proto\":null,\"content_type\":null,\"content_size\":0,\"vars\":{\"price\":\"$349.99 to $509.99\",\"title\":\"Apple iPhone XR 64GB 128GB 256GB - All Colors - Unlocked / Network Locked \"},\"failed_response_checksum\":null,\"failed_response_status\":null,\"failed_response_status_code\":null,\"failed_response_headers\":null,\"failed_response_cookie\":null,\"failed_response_proto\":null,\"failed_effective_url\":null,\"failed_at\":null,\"failed_content_type\":null,\"driver\":null,\"display\":null,\"screenshot\":null,\"driver_log\":null,\"force_fetch\":null}",
+  "Error: GID needs to be generated;URL is required For: {\"job_id\":1,\"status\":\"to_fetch\",\"fetch_type\":\"standard\",\"hostname\":\"\",\"page_type\":\"details\",\"priority\":null,\"method\":\"GET\",\"url\":\"\",\"effective_url\":null,\"headers\":null,\"cookie\":null,\"body\":null,\"created_at\":\"0001-01-01T00:00:00Z\",\"no_redirect\":false,\"no_url_encode\":false,\"http2\":false,\"ua_type\":\"desktop\",\"freshness\":\"2020-10-12T00:07:00Z\",\"fresh\":null,\"parsing_at\":null,\"parsing_failed_at\":null,\"parsed_at\":null,\"parsing_try_count\":0,\"parsing_fail_count\":0,\"fetching_at\":\"0001-01-01T00:00:00Z\",\"fetched_at\":null,\"fetching_try_count\":0,\"to_fetch\":null,\"fetched_from\":\"\",\"response_checksum\":null,\"response_status\":null,\"response_status_code\":null,\"response_headers\":null,\"response_cookie\":null,\"response_proto\":null,\"content_type\":null,\"content_size\":0,\"vars\":{\"price\":\"$225.98 to $299.99\",\"title\":\"Apple iPhone 7 32GB/128GB/256GB Mobile Smartphone Factory Unlocked 12MP iOS New\"},\"failed_response_checksum\":null,\"failed_response_status\":null,\"failed_response_status_code\":null,\"failed_response_headers\":null,\"failed_response_cookie\":null,\"failed_response_proto\":null,\"failed_effective_url\":null,\"failed_at\":null,\"failed_content_type\":null,\"driver\":null,\"display\":null,\"screenshot\":null,\"driver_log\":null,\"force_fetch\":null}",
+  "Error: GID needs to be generated;URL is required For: {\"job_id\":1,\"status\":\"to_fetch\",\"fetch_type\":\"standard\",\"hostname\":\"\",\"page_type\":\"details\",\"priority\":null,\"method\":\"GET\",\"url\":\"\",\"effective_url\":null,\"headers\":null,\"cookie\":null,\"body\":null,\"created_at\":\"0001-01-01T00:00:00Z\",\"no_redirect\":false,\"no_url_encode\":false,\"http2\":false,\"ua_type\":\"desktop\",\"freshness\":\"2020-10-12T00:07:00Z\",\"fresh\":null,\"parsing_at\":null,\"parsing_failed_at\":null,\"parsed_at\":null,\"parsing_try_count\":0,\"parsing_fail_count\":0,\"fetching_at\":\"0001-01-01T00:00:00Z\",\"fetched_at\":null,\"fetching_try_count\":0,\"to_fetch\":null,\"fetched_from\":\"\",\"response_checksum\":null,\"response_status\":null,\"response_status_code\":null,\"response_headers\":null,\"response_cookie\":null,\"response_proto\":null,\"content_type\":null,\"content_size\":0,\"vars\":{\"price\":\"$124.99 to $224.99\",\"title\":\"Apple iPhone 7 32GB 128GB 256GB 🍎 Verizon T-Mobile AT&T GSM Unlocked 📱\"},\"failed_response_checksum\":null,\"failed_response_status\":null,\"failed_response_status_code\":null,\"failed_response_headers\":null,\"failed_response_cookie\":null,\"failed_response_proto\":null,\"failed_effective_url\":null,\"failed_at\":null,\"failed_content_type\":null,\"driver\":null,\"display\":null,\"screenshot\":null,\"driver_log\":null,\"force_fetch\":null}",
+  "Error: GID needs to be generated;URL is required For: {\"job_id\":1,\"status\":\"to_fetch\",\"fetch_type\":\"standard\",\"hostname\":\"\",\"page_type\":\"details\",\"priority\":null,\"method\":\"GET\",\"url\":\"\",\"effective_url\":null,\"headers\":null,\"cookie\":null,\"body\":null,\"created_at\":\"0001-01-01T00:00:00Z\",\"no_redirect\":false,\"no_url_encode\":false,\"http2\":false,\"ua_type\":\"desktop\",\"freshness\":\"2020-10-12T00:07:00Z\",\"fresh\":null,\"parsing_at\":null,\"parsing_failed_at\":null,\"parsed_at\":null,\"parsing_try_count\":0,\"parsing_fail_count\":0,\"fetching_at\":\"0001-01-01T00:00:00Z\",\"fetched_at\":null,\"fetching_try_count\":0,\"to_fetch\":null,\"fetched_from\":\"\",\"response_checksum\":null,\"response_status\":null,\"response_status_code\":null,\"response_headers\":null,\"response_cookie\":null,\"response_proto\":null,\"content_type\":null,\"content_size\":0,\"vars\":{\"price\":\"$349.98 to $494.98\",\"title\":\"Apple iPhone XR Smartphone | 64GB 128GB | Unlocked Verizon AT&T Sprint T-Mobile\"},\"failed_response_checksum\":null,\"failed_response_status\":null,\"failed_response_status_code\":null,\"failed_response_headers\":null,\"failed_response_cookie\":null,\"failed_response_proto\":null,\"failed_effective_url\":null,\"failed_at\":null,\"failed_content_type\":null,\"driver\":null,\"display\":null,\"screenshot\":null,\"driver_log\":null,\"force_fetch\":null}",
+  "Error: GID needs to be generated;URL is required For: {\"job_id\":1,\"status\":\"to_fetch\",\"fetch_type\":\"standard\",\"hostname\":\"\",\"page_type\":\"details\",\"priority\":null,\"method\":\"GET\",\"url\":\"\",\"effective_url\":null,\"headers\":null,\"cookie\":null,\"body\":null,\"created_at\":\"0001-01-01T00:00:00Z\",\"no_redirect\":false,\"no_url_encode\":false,\"http2\":false,\"ua_type\":\"desktop\",\"freshness\":\"2020-10-12T00:07:00Z\",\"fresh\":null,\"parsing_at\":null,\"parsing_failed_at\":null,\"parsed_at\":null,\"parsing_try_count\":0,\"parsing_fail_count\":0,\"fetching_at\":\"0001-01-01T00:00:00Z\",\"fetched_at\":null,\"fetching_try_count\":0,\"to_fetch\":null,\"fetched_from\":\"\",\"response_checksum\":null,\"response_status\":null,\"response_status_code\":null,\"response_headers\":null,\"response_cookie\":null,\"response_proto\":null,\"content_type\":null,\"content_size\":0,\"vars\":{\"price\":\"$94.00 to $124.00\",\"title\":\"Apple iPhone SE Smartphone 16GB 32GB 64GB 128GB Verizon Unlocked T-Mobile AT&T\"},\"failed_response_checksum\":null,\"failed_response_status\":null,\"failed_response_status_code\":null,\"failed_response_headers\":null,\"failed_response_cookie\":null,\"failed_response_proto\":null,\"failed_effective_url\":null,\"failed_at\":null,\"failed_content_type\":null,\"driver\":null,\"display\":null,\"screenshot\":null,\"driver_log\":null,\"force_fetch\":null}",
+  "Error: GID needs to be generated;URL is required For: {\"job_id\":1,\"status\":\"to_fetch\",\"fetch_type\":\"standard\",\"hostname\":\"\",\"page_type\":\"details\",\"priority\":null,\"method\":\"GET\",\"url\":\"\",\"effective_url\":null,\"headers\":null,\"cookie\":null,\"body\":null,\"created_at\":\"0001-01-01T00:00:00Z\",\"no_redirect\":false,\"no_url_encode\":false,\"http2\":false,\"ua_type\":\"desktop\",\"freshness\":\"2020-10-12T00:07:00Z\",\"fresh\":null,\"parsing_at\":null,\"parsing_failed_at\":null,\"parsed_at\":null,\"parsing_try_count\":0,\"parsing_fail_count\":0,\"fetching_at\":\"0001-01-01T00:00:00Z\",\"fetched_at\":null,\"fetching_try_count\":0,\"to_fetch\":null,\"fetched_from\":\"\",\"response_checksum\":null,\"response_status\":null,\"response_status_code\":null,\"response_headers\":null,\"response_cookie\":null,\"response_proto\":null,\"content_type\":null,\"content_size\":0,\"vars\":{\"price\":\"$229.99\",\"title\":\"Apple iPhone 8 Factory Unlocked 4G LTE Smartphone - Used\"},\"failed_response_checksum\":null,\"failed_response_status\":null,\"failed_response_status_code\":null,\"failed_response_headers\":null,\"failed_response_cookie\":null,\"failed_response_proto\":null,\"failed_effective_url\":null,\"failed_at\":null,\"failed_content_type\":null,\"driver\":null,\"display\":null,\"screenshot\":null,\"driver_log\":null,\"force_fetch\":null}",
+  "Error: GID needs to be generated;URL is required For: {\"job_id\":1,\"status\":\"to_fetch\",\"fetch_type\":\"standard\",\"hostname\":\"\",\"page_type\":\"details\",\"priority\":null,\"method\":\"GET\",\"url\":\"\",\"effective_url\":null,\"headers\":null,\"cookie\":null,\"body\":null,\"created_at\":\"0001-01-01T00:00:00Z\",\"no_redirect\":false,\"no_url_encode\":false,\"http2\":false,\"ua_type\":\"desktop\",\"freshness\":\"2020-10-12T00:07:00Z\",\"fresh\":null,\"parsing_at\":null,\"parsing_failed_at\":null,\"parsed_at\":null,\"parsing_try_count\":0,\"parsing_fail_count\":0,\"fetching_at\":\"0001-01-01T00:00:00Z\",\"fetched_at\":null,\"fetching_try_count\":0,\"to_fetch\":null,\"fetched_from\":\"\",\"response_checksum\":null,\"response_status\":null,\"response_status_code\":null,\"response_headers\":null,\"response_cookie\":null,\"response_proto\":null,\"content_type\":null,\"content_size\":0,\"vars\":{\"price\":\"$79.00 to $94.00\",\"title\":\"Apple iPhone SE Smartphone 16GB 32GB 64GB 128GB Factory Unlocked 4G LTE WiFi iOS\"},\"failed_response_checksum\":null,\"failed_response_status\":null,\"failed_response_status_code\":null,\"failed_response_headers\":null,\"failed_response_cookie\":null,\"failed_response_proto\":null,\"failed_effective_url\":null,\"failed_at\":null,\"failed_content_type\":null,\"driver\":null,\"display\":null,\"screenshot\":null,\"driver_log\":null,\"force_fetch\":null}",
+  "Error: GID needs to be generated;URL is required For: {\"job_id\":1,\"status\":\"to_fetch\",\"fetch_type\":\"standard\",\"hostname\":\"\",\"page_type\":\"details\",\"priority\":null,\"method\":\"GET\",\"url\":\"\",\"effective_url\":null,\"headers\":null,\"cookie\":null,\"body\":null,\"created_at\":\"0001-01-01T00:00:00Z\",\"no_redirect\":false,\"no_url_encode\":false,\"http2\":false,\"ua_type\":\"desktop\",\"freshness\":\"2020-10-12T00:07:00Z\",\"fresh\":null,\"parsing_at\":null,\"parsing_failed_at\":null,\"parsed_at\":null,\"parsing_try_count\":0,\"parsing_fail_count\":0,\"fetching_at\":\"0001-01-01T00:00:00Z\",\"fetched_at\":null,\"fetching_try_count\":0,\"to_fetch\":null,\"fetched_from\":\"\",\"response_checksum\":null,\"response_status\":null,\"response_status_code\":null,\"response_headers\":null,\"response_cookie\":null,\"response_proto\":null,\"content_type\":null,\"content_size\":0,\"vars\":{\"price\":\"$149.99\",\"title\":\"Apple iPhone 7 - 128GB - Rose Gold (Unlocked) A1660 (GSM+CMDA)\"},\"failed_response_checksum\":null,\"failed_response_status\":null,\"failed_response_status_code\":null,\"failed_response_headers\":null,\"failed_response_cookie\":null,\"failed_response_proto\":null,\"failed_effective_url\":null,\"failed_at\":null,\"failed_content_type\":null,\"driver\":null,\"display\":null,\"screenshot\":null,\"driver_log\":null,\"force_fetch\":null}",
+  "Error: GID needs to be generated;URL is required For: {\"job_id\":1,\"status\":\"to_fetch\",\"fetch_type\":\"standard\",\"hostname\":\"\",\"page_type\":\"details\",\"priority\":null,\"method\":\"GET\",\"url\":\"\",\"effective_url\":null,\"headers\":null,\"cookie\":null,\"body\":null,\"created_at\":\"0001-01-01T00:00:00Z\",\"no_redirect\":false,\"no_url_encode\":false,\"http2\":false,\"ua_type\":\"desktop\",\"freshness\":\"2020-10-12T00:07:00Z\",\"fresh\":null,\"parsing_at\":null,\"parsing_failed_at\":null,\"parsed_at\":null,\"parsing_try_count\":0,\"parsing_fail_count\":0,\"fetching_at\":\"0001-01-01T00:00:00Z\",\"fetched_at\":null,\"fetching_try_count\":0,\"to_fetch\":null,\"fetched_from\":\"\",\"response_checksum\":null,\"response_status\":null,\"response_status_code\":null,\"response_headers\":null,\"response_cookie\":null,\"response_proto\":null,\"content_type\":null,\"content_size\":0,\"vars\":{\"price\":\"$99.00\",\"title\":\"Apple iPhone 6s - 32GB - Space Gray\"},\"failed_response_checksum\":null,\"failed_response_status\":null,\"failed_response_status_code\":null,\"failed_response_headers\":null,\"failed_response_cookie\":null,\"failed_response_proto\":null,\"failed_effective_url\":null,\"failed_at\":null,\"failed_content_type\":null,\"driver\":null,\"display\":null,\"screenshot\":null,\"driver_log\":null,\"force_fetch\":null}",
+  "Error: GID needs to be generated;URL is required For: {\"job_id\":1,\"status\":\"to_fetch\",\"fetch_type\":\"standard\",\"hostname\":\"\",\"page_type\":\"details\",\"priority\":null,\"method\":\"GET\",\"url\":\"\",\"effective_url\":null,\"headers\":null,\"cookie\":null,\"body\":null,\"created_at\":\"0001-01-01T00:00:00Z\",\"no_redirect\":false,\"no_url_encode\":false,\"http2\":false,\"ua_type\":\"desktop\",\"freshness\":\"2020-10-12T00:07:00Z\",\"fresh\":null,\"parsing_at\":null,\"parsing_failed_at\":null,\"parsed_at\":null,\"parsing_try_count\":0,\"parsing_fail_count\":0,\"fetching_at\":\"0001-01-01T00:00:00Z\",\"fetched_at\":null,\"fetching_try_count\":0,\"to_fetch\":null,\"fetched_from\":\"\",\"response_checksum\":null,\"response_status\":null,\"response_status_code\":null,\"response_headers\":null,\"response_cookie\":null,\"response_proto\":null,\"content_type\":null,\"content_size\":0,\"vars\":{\"price\":\"$224.99 to $229.99\",\"title\":\"Apple iPhone 8 64GB Factory Unlocked Smartphone\"},\"failed_response_checksum\":null,\"failed_response_status\":null,\"failed_response_status_code\":null,\"failed_response_headers\":null,\"failed_response_cookie\":null,\"failed_response_proto\":null,\"failed_effective_url\":null,\"failed_at\":null,\"failed_content_type\":null,\"driver\":null,\"display\":null,\"screenshot\":null,\"driver_log\":null,\"force_fetch\":null}",
+  "Error: GID needs to be generated;URL is required For: {\"job_id\":1,\"status\":\"to_fetch\",\"fetch_type\":\"standard\",\"hostname\":\"\",\"page_type\":\"details\",\"priority\":null,\"method\":\"GET\",\"url\":\"\",\"effective_url\":null,\"headers\":null,\"cookie\":null,\"body\":null,\"created_at\":\"0001-01-01T00:00:00Z\",\"no_redirect\":false,\"no_url_encode\":false,\"http2\":false,\"ua_type\":\"desktop\",\"freshness\":\"2020-10-12T00:07:00Z\",\"fresh\":null,\"parsing_at\":null,\"parsing_failed_at\":null,\"parsed_at\":null,\"parsing_try_count\":0,\"parsing_fail_count\":0,\"fetching_at\":\"0001-01-01T00:00:00Z\",\"fetched_at\":null,\"fetching_try_count\":0,\"to_fetch\":null,\"fetched_from\":\"\",\"response_checksum\":null,\"response_status\":null,\"response_status_code\":null,\"response_headers\":null,\"response_cookie\":null,\"response_proto\":null,\"content_type\":null,\"content_size\":0,\"vars\":{\"price\":\"$408.99\",\"title\":\"Apple iPhone XR 64GB 🍎 Verizon T-Mobile AT&T Sprint Unlocked iOS Smartphone\"},\"failed_response_checksum\":null,\"failed_response_status\":null,\"failed_response_status_code\":null,\"failed_response_headers\":null,\"failed_response_cookie\":null,\"failed_response_proto\":null,\"failed_effective_url\":null,\"failed_at\":null,\"failed_content_type\":null,\"driver\":null,\"display\":null,\"screenshot\":null,\"driver_log\":null,\"force_fetch\":null}",
+  "Error: GID needs to be generated;URL is required For: {\"job_id\":1,\"status\":\"to_fetch\",\"fetch_type\":\"standard\",\"hostname\":\"\",\"page_type\":\"details\",\"priority\":null,\"method\":\"GET\",\"url\":\"\",\"effective_url\":null,\"headers\":null,\"cookie\":null,\"body\":null,\"created_at\":\"0001-01-01T00:00:00Z\",\"no_redirect\":false,\"no_url_encode\":false,\"http2\":false,\"ua_type\":\"desktop\",\"freshness\":\"2020-10-12T00:07:00Z\",\"fresh\":null,\"parsing_at\":null,\"parsing_failed_at\":null,\"parsed_at\":null,\"parsing_try_count\":0,\"parsing_fail_count\":0,\"fetching_at\":\"0001-01-01T00:00:00Z\",\"fetched_at\":null,\"fetching_try_count\":0,\"to_fetch\":null,\"fetched_from\":\"\",\"response_checksum\":null,\"response_status\":null,\"response_status_code\":null,\"response_headers\":null,\"response_cookie\":null,\"response_proto\":null,\"content_type\":null,\"content_size\":0,\"vars\":{\"price\":\"$200.00 to $279.00\",\"title\":\"Apple iPhone 8 Smartphone AT&T Sprint T-Mobile Verizon or Unlocked 4G LTE iOS\"},\"failed_response_checksum\":null,\"failed_response_status\":null,\"failed_response_status_code\":null,\"failed_response_headers\":null,\"failed_response_cookie\":null,\"failed_response_proto\":null,\"failed_effective_url\":null,\"failed_at\":null,\"failed_content_type\":null,\"driver\":null,\"display\":null,\"screenshot\":null,\"driver_log\":null,\"force_fetch\":null}",
+  "Error: GID needs to be generated;URL is required For: {\"job_id\":1,\"status\":\"to_fetch\",\"fetch_type\":\"standard\",\"hostname\":\"\",\"page_type\":\"details\",\"priority\":null,\"method\":\"GET\",\"url\":\"\",\"effective_url\":null,\"headers\":null,\"cookie\":null,\"body\":null,\"created_at\":\"0001-01-01T00:00:00Z\",\"no_redirect\":false,\"no_url_encode\":false,\"http2\":false,\"ua_type\":\"desktop\",\"freshness\":\"2020-10-12T00:07:00Z\",\"fresh\":null,\"parsing_at\":null,\"parsing_failed_at\":null,\"parsed_at\":null,\"parsing_try_count\":0,\"parsing_fail_count\":0,\"fetching_at\":\"0001-01-01T00:00:00Z\",\"fetched_at\":null,\"fetching_try_count\":0,\"to_fetch\":null,\"fetched_from\":\"\",\"response_checksum\":null,\"response_status\":null,\"response_status_code\":null,\"response_headers\":null,\"response_cookie\":null,\"response_proto\":null,\"content_type\":null,\"content_size\":0,\"vars\":{\"price\":\"$429.99 to $504.99\",\"title\":\"Apple iPhone X - 64GB, 256GB CDMA/GSM Unlocked, Verizon, AT&T, T-Mobile, Sprint\"},\"failed_response_checksum\":null,\"failed_response_status\":null,\"failed_response_status_code\":null,\"failed_response_headers\":null,\"failed_response_cookie\":null,\"failed_response_proto\":null,\"failed_effective_url\":null,\"failed_at\":null,\"failed_content_type\":null,\"driver\":null,\"display\":null,\"screenshot\":null,\"driver_log\":null,\"force_fetch\":null}",
+  "Error: GID needs to be generated;URL is required For: {\"job_id\":1,\"status\":\"to_fetch\",\"fetch_type\":\"standard\",\"hostname\":\"\",\"page_type\":\"details\",\"priority\":null,\"method\":\"GET\",\"url\":\"\",\"effective_url\":null,\"headers\":null,\"cookie\":null,\"body\":null,\"created_at\":\"0001-01-01T00:00:00Z\",\"no_redirect\":false,\"no_url_encode\":false,\"http2\":false,\"ua_type\":\"desktop\",\"freshness\":\"2020-10-12T00:07:00Z\",\"fresh\":null,\"parsing_at\":null,\"parsing_failed_at\":null,\"parsed_at\":null,\"parsing_try_count\":0,\"parsing_fail_count\":0,\"fetching_at\":\"0001-01-01T00:00:00Z\",\"fetched_at\":null,\"fetching_try_count\":0,\"to_fetch\":null,\"fetched_from\":\"\",\"response_checksum\":null,\"response_status\":null,\"response_status_code\":null,\"response_headers\":null,\"response_cookie\":null,\"response_proto\":null,\"content_type\":null,\"content_size\":0,\"vars\":{\"price\":\"$32.99\",\"title\":\"Apple iPhone 5c - 8GB - White (Unlocked) A1532.  Excellent Condition\"},\"failed_response_checksum\":null,\"failed_response_status\":null,\"failed_response_status_code\":null,\"failed_response_headers\":null,\"failed_response_cookie\":null,\"failed_response_proto\":null,\"failed_effective_url\":null,\"failed_at\":null,\"failed_content_type\":null,\"driver\":null,\"display\":null,\"screenshot\":null,\"driver_log\":null,\"force_fetch\":null}",
+  "Error: GID needs to be generated;URL is required For: {\"job_id\":1,\"status\":\"to_fetch\",\"fetch_type\":\"standard\",\"hostname\":\"\",\"page_type\":\"details\",\"priority\":null,\"method\":\"GET\",\"url\":\"\",\"effective_url\":null,\"headers\":null,\"cookie\":null,\"body\":null,\"created_at\":\"0001-01-01T00:00:00Z\",\"no_redirect\":false,\"no_url_encode\":false,\"http2\":false,\"ua_type\":\"desktop\",\"freshness\":\"2020-10-12T00:07:00Z\",\"fresh\":null,\"parsing_at\":null,\"parsing_failed_at\":null,\"parsed_at\":null,\"parsing_try_count\":0,\"parsing_fail_count\":0,\"fetching_at\":\"0001-01-01T00:00:00Z\",\"fetched_at\":null,\"fetching_try_count\":0,\"to_fetch\":null,\"fetched_from\":\"\",\"response_checksum\":null,\"response_status\":null,\"response_status_code\":null,\"response_headers\":null,\"response_cookie\":null,\"response_proto\":null,\"content_type\":null,\"content_size\":0,\"vars\":{\"price\":\"$74.99 to $129.99\",\"title\":\"Apple iPhone SE 16GB 32GB 64GB 128GB Verizon AT&T Unlocked Sprint T-Mobile GSM\"},\"failed_response_checksum\":null,\"failed_response_status\":null,\"failed_response_status_code\":null,\"failed_response_headers\":null,\"failed_response_cookie\":null,\"failed_response_proto\":null,\"failed_effective_url\":null,\"failed_at\":null,\"failed_content_type\":null,\"driver\":null,\"display\":null,\"screenshot\":null,\"driver_log\":null,\"force_fetch\":null}",
+  "Error: GID needs to be generated;URL is required For: {\"job_id\":1,\"status\":\"to_fetch\",\"fetch_type\":\"standard\",\"hostname\":\"\",\"page_type\":\"details\",\"priority\":null,\"method\":\"GET\",\"url\":\"\",\"effective_url\":null,\"headers\":null,\"cookie\":null,\"body\":null,\"created_at\":\"0001-01-01T00:00:00Z\",\"no_redirect\":false,\"no_url_encode\":false,\"http2\":false,\"ua_type\":\"desktop\",\"freshness\":\"2020-10-12T00:07:00Z\",\"fresh\":null,\"parsing_at\":null,\"parsing_failed_at\":null,\"parsed_at\":null,\"parsing_try_count\":0,\"parsing_fail_count\":0,\"fetching_at\":\"0001-01-01T00:00:00Z\",\"fetched_at\":null,\"fetching_try_count\":0,\"to_fetch\":null,\"fetched_from\":\"\",\"response_checksum\":null,\"response_status\":null,\"response_status_code\":null,\"response_headers\":null,\"response_cookie\":null,\"response_proto\":null,\"content_type\":null,\"content_size\":0,\"vars\":{\"price\":\"$464.95\",\"title\":\"Open Box Apple iPhone X 256GB - Space Gray - GSM Unlocked\"},\"failed_response_checksum\":null,\"failed_response_status\":null,\"failed_response_status_code\":null,\"failed_response_headers\":null,\"failed_response_cookie\":null,\"failed_response_proto\":null,\"failed_effective_url\":null,\"failed_at\":null,\"failed_content_type\":null,\"driver\":null,\"display\":null,\"screenshot\":null,\"driver_log\":null,\"force_fetch\":null}",
+  "Error: GID needs to be generated;URL is required For: {\"job_id\":1,\"status\":\"to_fetch\",\"fetch_type\":\"standard\",\"hostname\":\"\",\"page_type\":\"details\",\"priority\":null,\"method\":\"GET\",\"url\":\"\",\"effective_url\":null,\"headers\":null,\"cookie\":null,\"body\":null,\"created_at\":\"0001-01-01T00:00:00Z\",\"no_redirect\":false,\"no_url_encode\":false,\"http2\":false,\"ua_type\":\"desktop\",\"freshness\":\"2020-10-12T00:07:00Z\",\"fresh\":null,\"parsing_at\":null,\"parsing_failed_at\":null,\"parsed_at\":null,\"parsing_try_count\":0,\"parsing_fail_count\":0,\"fetching_at\":\"0001-01-01T00:00:00Z\",\"fetched_at\":null,\"fetching_try_count\":0,\"to_fetch\":null,\"fetched_from\":\"\",\"response_checksum\":null,\"response_status\":null,\"response_status_code\":null,\"response_headers\":null,\"response_cookie\":null,\"response_proto\":null,\"content_type\":null,\"content_size\":0,\"vars\":{\"price\":\"$89.99 to $289.99\",\"title\":\"Apple iPhone 6s 16GB 32GB 64GB 128GB - All Colors - Unlocked / Network Locked\"},\"failed_response_checksum\":null,\"failed_response_status\":null,\"failed_response_status_code\":null,\"failed_response_headers\":null,\"failed_response_cookie\":null,\"failed_response_proto\":null,\"failed_effective_url\":null,\"failed_at\":null,\"failed_content_type\":null,\"driver\":null,\"display\":null,\"screenshot\":null,\"driver_log\":null,\"force_fetch\":null}",
+  "Error: GID needs to be generated;URL is required For: {\"job_id\":1,\"status\":\"to_fetch\",\"fetch_type\":\"standard\",\"hostname\":\"\",\"page_type\":\"details\",\"priority\":null,\"method\":\"GET\",\"url\":\"\",\"effective_url\":null,\"headers\":null,\"cookie\":null,\"body\":null,\"created_at\":\"0001-01-01T00:00:00Z\",\"no_redirect\":false,\"no_url_encode\":false,\"http2\":false,\"ua_type\":\"desktop\",\"freshness\":\"2020-10-12T00:07:00Z\",\"fresh\":null,\"parsing_at\":null,\"parsing_failed_at\":null,\"parsed_at\":null,\"parsing_try_count\":0,\"parsing_fail_count\":0,\"fetching_at\":\"0001-01-01T00:00:00Z\",\"fetched_at\":null,\"fetching_try_count\":0,\"to_fetch\":null,\"fetched_from\":\"\",\"response_checksum\":null,\"response_status\":null,\"response_status_code\":null,\"response_headers\":null,\"response_cookie\":null,\"response_proto\":null,\"content_type\":null,\"content_size\":0,\"vars\":{\"price\":\"$359.99\",\"title\":\"Apple iPhone XR 64GB Factory Unlocked iOS Smartphone - Used/Acceptable - Used\"},\"failed_response_checksum\":null,\"failed_response_status\":null,\"failed_response_status_code\":null,\"failed_response_headers\":null,\"failed_response_cookie\":null,\"failed_response_proto\":null,\"failed_effective_url\":null,\"failed_at\":null,\"failed_content_type\":null,\"driver\":null,\"display\":null,\"screenshot\":null,\"driver_log\":null,\"force_fetch\":null}",
+  "Error: GID needs to be generated;URL is required For: {\"job_id\":1,\"status\":\"to_fetch\",\"fetch_type\":\"standard\",\"hostname\":\"\",\"page_type\":\"details\",\"priority\":null,\"method\":\"GET\",\"url\":\"\",\"effective_url\":null,\"headers\":null,\"cookie\":null,\"body\":null,\"created_at\":\"0001-01-01T00:00:00Z\",\"no_redirect\":false,\"no_url_encode\":false,\"http2\":false,\"ua_type\":\"desktop\",\"freshness\":\"2020-10-12T00:07:00Z\",\"fresh\":null,\"parsing_at\":null,\"parsing_failed_at\":null,\"parsed_at\":null,\"parsing_try_count\":0,\"parsing_fail_count\":0,\"fetching_at\":\"0001-01-01T00:00:00Z\",\"fetched_at\":null,\"fetching_try_count\":0,\"to_fetch\":null,\"fetched_from\":\"\",\"response_checksum\":null,\"response_status\":null,\"response_status_code\":null,\"response_headers\":null,\"response_cookie\":null,\"response_proto\":null,\"content_type\":null,\"content_size\":0,\"vars\":{\"price\":\"$180.00 to $294.00\",\"title\":\"Apple iPhone 7 Plus Smartphone AT&T Sprint T-Mobile Verizon or Unlocked 4G LTE\"},\"failed_response_checksum\":null,\"failed_response_status\":null,\"failed_response_status_code\":null,\"failed_response_headers\":null,\"failed_response_cookie\":null,\"failed_response_proto\":null,\"failed_effective_url\":null,\"failed_at\":null,\"failed_content_type\":null,\"driver\":null,\"display\":null,\"screenshot\":null,\"driver_log\":null,\"force_fetch\":null}",
+  "Error: GID needs to be generated;URL is required For: {\"job_id\":1,\"status\":\"to_fetch\",\"fetch_type\":\"standard\",\"hostname\":\"\",\"page_type\":\"details\",\"priority\":null,\"method\":\"GET\",\"url\":\"\",\"effective_url\":null,\"headers\":null,\"cookie\":null,\"body\":null,\"created_at\":\"0001-01-01T00:00:00Z\",\"no_redirect\":false,\"no_url_encode\":false,\"http2\":false,\"ua_type\":\"desktop\",\"freshness\":\"2020-10-12T00:07:00Z\",\"fresh\":null,\"parsing_at\":null,\"parsing_failed_at\":null,\"parsed_at\":null,\"parsing_try_count\":0,\"parsing_fail_count\":0,\"fetching_at\":\"0001-01-01T00:00:00Z\",\"fetched_at\":null,\"fetching_try_count\":0,\"to_fetch\":null,\"fetched_from\":\"\",\"response_checksum\":null,\"response_status\":null,\"response_status_code\":null,\"response_headers\":null,\"response_cookie\":null,\"response_proto\":null,\"content_type\":null,\"content_size\":0,\"vars\":{\"price\":\"$106.99\",\"title\":\"Apple iPhone 6S 32GB Space Gray Unlocked Good Condition\"},\"failed_response_checksum\":null,\"failed_response_status\":null,\"failed_response_status_code\":null,\"failed_response_headers\":null,\"failed_response_cookie\":null,\"failed_response_proto\":null,\"failed_effective_url\":null,\"failed_at\":null,\"failed_content_type\":null,\"driver\":null,\"display\":null,\"screenshot\":null,\"driver_log\":null,\"force_fetch\":null}",
+  "Error: GID needs to be generated;URL is required For: {\"job_id\":1,\"status\":\"to_fetch\",\"fetch_type\":\"standard\",\"hostname\":\"\",\"page_type\":\"details\",\"priority\":null,\"method\":\"GET\",\"url\":\"\",\"effective_url\":null,\"headers\":null,\"cookie\":null,\"body\":null,\"created_at\":\"0001-01-01T00:00:00Z\",\"no_redirect\":false,\"no_url_encode\":false,\"http2\":false,\"ua_type\":\"desktop\",\"freshness\":\"2020-10-12T00:07:00Z\",\"fresh\":null,\"parsing_at\":null,\"parsing_failed_at\":null,\"parsed_at\":null,\"parsing_try_count\":0,\"parsing_fail_count\":0,\"fetching_at\":\"0001-01-01T00:00:00Z\",\"fetched_at\":null,\"fetching_try_count\":0,\"to_fetch\":null,\"fetched_from\":\"\",\"response_checksum\":null,\"response_status\":null,\"response_status_code\":null,\"response_headers\":null,\"response_cookie\":null,\"response_proto\":null,\"content_type\":null,\"content_size\":0,\"vars\":{\"price\":\"$121.00 to $191.00\",\"title\":\"Apple iPhone 7 32GB - Gold,Black,Silver Verizon at&t Unlocked Smartphone LTE\"},\"failed_response_checksum\":null,\"failed_response_status\":null,\"failed_response_status_code\":null,\"failed_response_headers\":null,\"failed_response_cookie\":null,\"failed_response_proto\":null,\"failed_effective_url\":null,\"failed_at\":null,\"failed_content_type\":null,\"driver\":null,\"display\":null,\"screenshot\":null,\"driver_log\":null,\"force_fetch\":null}",
+  "Error: GID needs to be generated;URL is required For: {\"job_id\":1,\"status\":\"to_fetch\",\"fetch_type\":\"standard\",\"hostname\":\"\",\"page_type\":\"details\",\"priority\":null,\"method\":\"GET\",\"url\":\"\",\"effective_url\":null,\"headers\":null,\"cookie\":null,\"body\":null,\"created_at\":\"0001-01-01T00:00:00Z\",\"no_redirect\":false,\"no_url_encode\":false,\"http2\":false,\"ua_type\":\"desktop\",\"freshness\":\"2020-10-12T00:07:00Z\",\"fresh\":null,\"parsing_at\":null,\"parsing_failed_at\":null,\"parsed_at\":null,\"parsing_try_count\":0,\"parsing_fail_count\":0,\"fetching_at\":\"0001-01-01T00:00:00Z\",\"fetched_at\":null,\"fetching_try_count\":0,\"to_fetch\":null,\"fetched_from\":\"\",\"response_checksum\":null,\"response_status\":null,\"response_status_code\":null,\"response_headers\":null,\"response_cookie\":null,\"response_proto\":null,\"content_type\":null,\"content_size\":0,\"vars\":{\"price\":\"$289.00 to $349.00\",\"title\":\"Apple iPhone SE 2nd Gen Smartphone AT&T Sprint T-Mobile Verizon or Unlocked\"},\"failed_response_checksum\":null,\"failed_response_status\":null,\"failed_response_status_code\":null,\"failed_response_headers\":null,\"failed_response_cookie\":null,\"failed_response_proto\":null,\"failed_effective_url\":null,\"failed_at\":null,\"failed_content_type\":null,\"driver\":null,\"display\":null,\"screenshot\":null,\"driver_log\":null,\"force_fetch\":null}",
+  "Error: GID needs to be generated;URL is required For: {\"job_id\":1,\"status\":\"to_fetch\",\"fetch_type\":\"standard\",\"hostname\":\"\",\"page_type\":\"details\",\"priority\":null,\"method\":\"GET\",\"url\":\"\",\"effective_url\":null,\"headers\":null,\"cookie\":null,\"body\":null,\"created_at\":\"0001-01-01T00:00:00Z\",\"no_redirect\":false,\"no_url_encode\":false,\"http2\":false,\"ua_type\":\"desktop\",\"freshness\":\"2020-10-12T00:07:00Z\",\"fresh\":null,\"parsing_at\":null,\"parsing_failed_at\":null,\"parsed_at\":null,\"parsing_try_count\":0,\"parsing_fail_count\":0,\"fetching_at\":\"0001-01-01T00:00:00Z\",\"fetched_at\":null,\"fetching_try_count\":0,\"to_fetch\":null,\"fetched_from\":\"\",\"response_checksum\":null,\"response_status\":null,\"response_status_code\":null,\"response_headers\":null,\"response_cookie\":null,\"response_proto\":null,\"content_type\":null,\"content_size\":0,\"vars\":{\"price\":\"$107.95\",\"title\":\"Apple iPhone 6S 16GB Unlocked Smartphone\"},\"failed_response_checksum\":null,\"failed_response_status\":null,\"failed_response_status_code\":null,\"failed_response_headers\":null,\"failed_response_cookie\":null,\"failed_response_proto\":null,\"failed_effective_url\":null,\"failed_at\":null,\"failed_content_type\":null,\"driver\":null,\"display\":null,\"screenshot\":null,\"driver_log\":null,\"force_fetch\":null}",
+  "Error: GID needs to be generated;URL is required For: {\"job_id\":1,\"status\":\"to_fetch\",\"fetch_type\":\"standard\",\"hostname\":\"\",\"page_type\":\"details\",\"priority\":null,\"method\":\"GET\",\"url\":\"\",\"effective_url\":null,\"headers\":null,\"cookie\":null,\"body\":null,\"created_at\":\"0001-01-01T00:00:00Z\",\"no_redirect\":false,\"no_url_encode\":false,\"http2\":false,\"ua_type\":\"desktop\",\"freshness\":\"2020-10-12T00:07:00Z\",\"fresh\":null,\"parsing_at\":null,\"parsing_failed_at\":null,\"parsed_at\":null,\"parsing_try_count\":0,\"parsing_fail_count\":0,\"fetching_at\":\"0001-01-01T00:00:00Z\",\"fetched_at\":null,\"fetching_try_count\":0,\"to_fetch\":null,\"fetched_from\":\"\",\"response_checksum\":null,\"response_status\":null,\"response_status_code\":null,\"response_headers\":null,\"response_cookie\":null,\"response_proto\":null,\"content_type\":null,\"content_size\":0,\"vars\":{\"price\":\"$250.00\",\"title\":\"Apple iPhone 8 - 256GB\"},\"failed_response_checksum\":null,\"failed_response_status\":null,\"failed_response_status_code\":null,\"failed_response_headers\":null,\"failed_response_cookie\":null,\"failed_response_proto\":null,\"failed_effective_url\":null,\"failed_at\":null,\"failed_content_type\":null,\"driver\":null,\"display\":null,\"screenshot\":null,\"driver_log\":null,\"force_fetch\":null}",
+  "Error: GID needs to be generated;URL is required For: {\"job_id\":1,\"status\":\"to_fetch\",\"fetch_type\":\"standard\",\"hostname\":\"\",\"page_type\":\"details\",\"priority\":null,\"method\":\"GET\",\"url\":\"\",\"effective_url\":null,\"headers\":null,\"cookie\":null,\"body\":null,\"created_at\":\"0001-01-01T00:00:00Z\",\"no_redirect\":false,\"no_url_encode\":false,\"http2\":false,\"ua_type\":\"desktop\",\"freshness\":\"2020-10-12T00:07:00Z\",\"fresh\":null,\"parsing_at\":null,\"parsing_failed_at\":null,\"parsed_at\":null,\"parsing_try_count\":0,\"parsing_fail_count\":0,\"fetching_at\":\"0001-01-01T00:00:00Z\",\"fetched_at\":null,\"fetching_try_count\":0,\"to_fetch\":null,\"fetched_from\":\"\",\"response_checksum\":null,\"response_status\":null,\"response_status_code\":null,\"response_headers\":null,\"response_cookie\":null,\"response_proto\":null,\"content_type\":null,\"content_size\":0,\"vars\":{\"price\":\"$319.99\",\"title\":\"Apple iPhone 8 Plus 64GB Factory Unlocked Smartphone\"},\"failed_response_checksum\":null,\"failed_response_status\":null,\"failed_response_status_code\":null,\"failed_response_headers\":null,\"failed_response_cookie\":null,\"failed_response_proto\":null,\"failed_effective_url\":null,\"failed_at\":null,\"failed_content_type\":null,\"driver\":null,\"display\":null,\"screenshot\":null,\"driver_log\":null,\"force_fetch\":null}",
+  "Error: GID needs to be generated;URL is required For: {\"job_id\":1,\"status\":\"to_fetch\",\"fetch_type\":\"standard\",\"hostname\":\"\",\"page_type\":\"details\",\"priority\":null,\"method\":\"GET\",\"url\":\"\",\"effective_url\":null,\"headers\":null,\"cookie\":null,\"body\":null,\"created_at\":\"0001-01-01T00:00:00Z\",\"no_redirect\":false,\"no_url_encode\":false,\"http2\":false,\"ua_type\":\"desktop\",\"freshness\":\"2020-10-12T00:07:00Z\",\"fresh\":null,\"parsing_at\":null,\"parsing_failed_at\":null,\"parsed_at\":null,\"parsing_try_count\":0,\"parsing_fail_count\":0,\"fetching_at\":\"0001-01-01T00:00:00Z\",\"fetched_at\":null,\"fetching_try_count\":0,\"to_fetch\":null,\"fetched_from\":\"\",\"response_checksum\":null,\"response_status\":null,\"response_status_code\":null,\"response_headers\":null,\"response_cookie\":null,\"response_proto\":null,\"content_type\":null,\"content_size\":0,\"vars\":{\"price\":\"$247.95\",\"title\":\"Apple iPhone 7 Plus 32GB Unlocked Smartphone\"},\"failed_response_checksum\":null,\"failed_response_status\":null,\"failed_response_status_code\":null,\"failed_response_headers\":null,\"failed_response_cookie\":null,\"failed_response_proto\":null,\"failed_effective_url\":null,\"failed_at\":null,\"failed_content_type\":null,\"driver\":null,\"display\":null,\"screenshot\":null,\"driver_log\":null,\"force_fetch\":null}",
+  "Error: GID needs to be generated;URL is required For: {\"job_id\":1,\"status\":\"to_fetch\",\"fetch_type\":\"standard\",\"hostname\":\"\",\"page_type\":\"details\",\"priority\":null,\"method\":\"GET\",\"url\":\"\",\"effective_url\":null,\"headers\":null,\"cookie\":null,\"body\":null,\"created_at\":\"0001-01-01T00:00:00Z\",\"no_redirect\":false,\"no_url_encode\":false,\"http2\":false,\"ua_type\":\"desktop\",\"freshness\":\"2020-10-12T00:07:00Z\",\"fresh\":null,\"parsing_at\":null,\"parsing_failed_at\":null,\"parsed_at\":null,\"parsing_try_count\":0,\"parsing_fail_count\":0,\"fetching_at\":\"0001-01-01T00:00:00Z\",\"fetched_at\":null,\"fetching_try_count\":0,\"to_fetch\":null,\"fetched_from\":\"\",\"response_checksum\":null,\"response_status\":null,\"response_status_code\":null,\"response_headers\":null,\"response_cookie\":null,\"response_proto\":null,\"content_type\":null,\"content_size\":0,\"vars\":{\"price\":\"$459.00 to $465.00\",\"title\":\"Fully Unlocked Apple iPhone 8 Plus (GSM+CDMA) AT&T T-Mobile Verizon [NEW UNUSED]\"},\"failed_response_checksum\":null,\"failed_response_status\":null,\"failed_response_status_code\":null,\"failed_response_headers\":null,\"failed_response_cookie\":null,\"failed_response_proto\":null,\"failed_effective_url\":null,\"failed_at\":null,\"failed_content_type\":null,\"driver\":null,\"display\":null,\"screenshot\":null,\"driver_log\":null,\"force_fetch\":null}",
+  "Error: GID needs to be generated;URL is required For: {\"job_id\":1,\"status\":\"to_fetch\",\"fetch_type\":\"standard\",\"hostname\":\"\",\"page_type\":\"details\",\"priority\":null,\"method\":\"GET\",\"url\":\"\",\"effective_url\":null,\"headers\":null,\"cookie\":null,\"body\":null,\"created_at\":\"0001-01-01T00:00:00Z\",\"no_redirect\":false,\"no_url_encode\":false,\"http2\":false,\"ua_type\":\"desktop\",\"freshness\":\"2020-10-12T00:07:00Z\",\"fresh\":null,\"parsing_at\":null,\"parsing_failed_at\":null,\"parsed_at\":null,\"parsing_try_count\":0,\"parsing_fail_count\":0,\"fetching_at\":\"0001-01-01T00:00:00Z\",\"fetched_at\":null,\"fetching_try_count\":0,\"to_fetch\":null,\"fetched_from\":\"\",\"response_checksum\":null,\"response_status\":null,\"response_status_code\":null,\"response_headers\":null,\"response_cookie\":null,\"response_proto\":null,\"content_type\":null,\"content_size\":0,\"vars\":{\"price\":\"$265.00 to $389.00\",\"title\":\"Apple iPhone 8 Plus Smartphone AT&T Sprint T-Mobile Verizon or Unlocked 4G LTE\"},\"failed_response_checksum\":null,\"failed_response_status\":null,\"failed_response_status_code\":null,\"failed_response_headers\":null,\"failed_response_cookie\":null,\"failed_response_proto\":null,\"failed_effective_url\":null,\"failed_at\":null,\"failed_content_type\":null,\"driver\":null,\"display\":null,\"screenshot\":null,\"driver_log\":null,\"force_fetch\":null}",
+  "Error: GID needs to be generated;URL is required For: {\"job_id\":1,\"status\":\"to_fetch\",\"fetch_type\":\"standard\",\"hostname\":\"\",\"page_type\":\"details\",\"priority\":null,\"method\":\"GET\",\"url\":\"\",\"effective_url\":null,\"headers\":null,\"cookie\":null,\"body\":null,\"created_at\":\"0001-01-01T00:00:00Z\",\"no_redirect\":false,\"no_url_encode\":false,\"http2\":false,\"ua_type\":\"desktop\",\"freshness\":\"2020-10-12T00:07:00Z\",\"fresh\":null,\"parsing_at\":null,\"parsing_failed_at\":null,\"parsed_at\":null,\"parsing_try_count\":0,\"parsing_fail_count\":0,\"fetching_at\":\"0001-01-01T00:00:00Z\",\"fetched_at\":null,\"fetching_try_count\":0,\"to_fetch\":null,\"fetched_from\":\"\",\"response_checksum\":null,\"response_status\":null,\"response_status_code\":null,\"response_headers\":null,\"response_cookie\":null,\"response_proto\":null,\"content_type\":null,\"content_size\":0,\"vars\":{\"price\":\"$100.00\",\"title\":\"Apple IPhone 6s Plus 128GB \"},\"failed_response_checksum\":null,\"failed_response_status\":null,\"failed_response_status_code\":null,\"failed_response_headers\":null,\"failed_response_cookie\":null,\"failed_response_proto\":null,\"failed_effective_url\":null,\"failed_at\":null,\"failed_content_type\":null,\"driver\":null,\"display\":null,\"screenshot\":null,\"driver_log\":null,\"force_fetch\":null}"
+ ]
+}
