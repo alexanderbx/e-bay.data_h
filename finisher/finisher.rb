@@ -1,5 +1,5 @@
-collections = Datahen::Client::SraperJobOutPut::.new.collections("ebay")
-collection = colections.find(|collection| colection['collection'] == "listings")
+collections = Datahen::Client::SraperJobOutput::.new.collections("ebay")
+collection = collections.find{|collection| collection['collection'] == "listings"}
 if collection 
     total = collection["outputs"]
     outputs << {
